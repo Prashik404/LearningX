@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:learningx/Event/basic_details.dart';
-import 'Event/registration_details.dart';
-import 'Event/rules_regulations.dart';
-import 'Event/event_round.dart';
-import 'Event/rewards_recognition.dart';
+import 'package:learningx/Event_pages/basic_details.dart';
+import 'Event_pages/registration_details.dart';
+import 'Event_pages/rules_regulations.dart';
+import 'Event_pages/event_round.dart';
+import 'Event_pages/rewards_recognition.dart';
 
 void main() {
   runApp(const MyApp());
